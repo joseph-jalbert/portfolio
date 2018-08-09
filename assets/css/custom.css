@@ -1,3 +1,7 @@
 .quote {
   font-style: italic;
 }
+
+#one p {
+    font-size: 22px;
+}
